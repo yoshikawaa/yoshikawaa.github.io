@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Welcome your visit to Atsushi Yoshikawa's Github Pages.
 
-You can use the [editor on GitHub](https://github.com/yoshikawaa/yoshikawaa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Everything stated is based on individual investigation and is not related to any company or organization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+Personal (experimental,hobby) projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### terasoluna-gfw-test
+Testing library for TERASOLUNA Framework 5.x with Spring TestContext Framework.
+* [Getting Start](https://github.com/yoshikawaa/terasoluna-gfw-test)
+* [API Docs](/apidocs/io/github/yoshikawaa/gfw/terasoluna-gfw-test/5.0.0-SNAPSHOT/index.html)
 
-```markdown
-Syntax highlighted code block
+### terasoluna-gfw-thymeleaf
+Thymeleaf 3.0 custom dialect based on TERASOLUNA Framework 5.x JSP tag library.
+* [Thymeleaf3/Getting Start](https://github.com/yoshikawaa/terasoluna-gfw-thymeleaf)
+* [Thymeleaf3/API Docs](/apidocs/io/github/yoshikawaa/gfw/thymeleaf-extras-terasoluna-gfw/3.0.0-SNAPSHOT/index.html)
 
-# Header 1
-## Header 2
-### Header 3
+Thymeleaf 2.1 custom dialect based on TERASOLUNA Framework 5.x JSP tag library.
+* [Thymeleaf2/Getting Start](https://github.com/yoshikawaa/terasoluna-gfw-thymeleaf/tree/thymeleaf2)
+* [Thymeleaf2/API Docs](/apidocs/io/github/yoshikawaa/gfw/thymeleaf-extras-terasoluna-gfw/2.0.0-SNAPSHOT/index.html)
 
-- Bulleted
-- List
+## Writings
 
-1. Numbered
-2. List
+Technical web articles.
 
-**Bold** and _Italic_ and `Code` text
+* [Qiita](https://qiita.com/yoshikawaa)
 
-[Link](url) and ![Image](src)
-```
+## Blogs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Blogs to update with mood.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yoshikawaa/yoshikawaa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Blogs](/blogs/overview)
