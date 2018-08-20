@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+remote_theme: andrewbanchich/dimension-jekyll-theme
+icon: fab fa-github-alt
+description: |
+  Welcome your visit to Atsushi Yoshikawa's Github Pages.<br>
+  Everything stated is based on personal investigation and is not related to any company or organization.
+github_url: https://github.com/yoshikawaa/
