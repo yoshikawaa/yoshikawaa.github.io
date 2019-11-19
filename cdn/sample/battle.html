@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,viewport-fit=cover">
+    <title>sample - battle</title>
+    <link href="../css/dq.css" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</head>
+
+<body class="container rows-fixed">
+    <div class="row-1-2 col-1-end"><h1>せんとう</h1></div>
+    <div class="row-2-5 col-4-10 box">
+        <table>
+            <thead>
+                <tr>
+                    <th><span>たろう</span></th>
+                    <th><span>じろう</span></th>
+                    <th><span>さぶろう</span></th>
+                    <th><span>しろう</span></th>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                <tr>
+                    <td>Ｈ１００</td>
+                    <td>Ｈ　５０</td>
+                    <td>Ｈ　３０</td>
+                    <td>Ｈ　１０</td>
+                </tr>
+                <tr>
+                    <td>Ｍ　３０</td>
+                    <td>Ｍ　５０</td>
+                    <td>Ｍ１００</td>
+                    <td>Ｍ　１０</td>
+                </tr>
+                <tr>
+                    <td>ゆ：９９</td>
+                    <td>そ：９９</td>
+                    <td>ま：９９</td>
+                    <td>あ：９９</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="row-5-9 col-1-end text-center">
+        <img src="monster.png" height="100%">
+    </div>
+    <div class="row-9-end col-4-6 box">
+        <div class="title">たろう</div>
+        <p class="menu-item">たたかう</p>
+        <p class="menu-item"><label for="trigger">じゅもん</label></p>
+        <p class="menu-item">ぼうぎょ</p>
+        <p class="menu-item">どうぐ</p>
+    </div>
+    <div class="row-9-11 col-6-10 box">
+        <p class="message">ゲレゲレ　－　１ひき</p>
+    </div>
+
+    <div class="modal">
+        <input type="checkbox" id="trigger">
+        <div class="overlay">
+            <label class="trigger" for="trigger"></label>
+            <div class="content-4">
+                <div class="box">
+                    <div class="title">じゅもん</div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td><label class="menu-item" for="trigger">ねずみ</label></td>
+                                <td><label class="menu-item" for="trigger">かしゃぶん</label></td>
+                            </tr>
+                            <tr>
+                                <td><label class="menu-item" for="trigger">もんぷち</label></td>
+                                <td><label class="menu-item" for="trigger">ちゅーる</label></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
