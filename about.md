@@ -2,7 +2,7 @@
 title: about
 image: pic01.jpg
 ---
-Japanese Front-End Developer, Software Architect, Designer, and OSS Contributer.
+Japanese Front-End Developer, Software Architect, Designer, AWS Solution Architect, and OSS Contributer.
 
 Since 2015, One of Expert Maintainer of TERASOLUNA Framework 5.x.
 
@@ -12,6 +12,7 @@ Since 2015, One of Expert Maintainer of TERASOLUNA Framework 5.x.
 * C# (ASP.NET, etc..)
 * JavaScript (AngularJS, etc..)
 * CSS (Bootstrap, etc..)
+* Cloud (AWS, etc..)
 
 <ul class="icons">
   <li>
