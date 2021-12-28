@@ -1,6 +1,7 @@
 remote_theme: andrewbanchich/dimension-jekyll-theme
-icon: fab fa-github-alt
+icon: fa-paw
 description: |
   Welcome your visit to Atsushi Yoshikawa's Github Pages.<br>
   Everything stated is based on personal investigation and is not related to any company or organization.
 github_url: https://github.com/yoshikawaa/
+credly_url: https://www.credly.com/users/atsushi-yoshikawa/badges
