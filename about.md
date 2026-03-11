@@ -4,14 +4,15 @@ image: pic01.jpg
 ---
 Japanese Front-End/Server-Side Developer, Software Architect, Cloud Engineer, Designer, and OSS Contributer.
 
-Since 2015, One of Expert Maintainer of TERASOLUNA Framework 5.x.
+Since 2015, One of Expert Maintainer of TERASOLUNA Framework 5.x.  
+Since 2023, One of Expert Maintainer of Geek Gear.
 
 ### Main Skill Sets
 
 #### Developer
-* Java (Spring framework, etc)
-* C# (ASP.NET, etc)
-* JavaScript (AngularJS, Vue.js etc)
+* Java (Spring Boot, etc)
+* TypeScript (Svelte, React, Vue.js etc)
+* AI Agent (VoltAgent, etc)
 
 #### Software Architect
 * Monolith to Micro/Mini Service
@@ -23,7 +24,8 @@ Since 2015, One of Expert Maintainer of TERASOLUNA Framework 5.x.
 * AWS Solutions Architect Associate
 
 #### Designer
-* CSS (Bootstrap)
+* UI (Shadcn UI)
+* CSS (Tailwind, Bootstrap)
 * Material Design
 
 <ul class="icons">
